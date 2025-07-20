@@ -10,5 +10,5 @@ papers:
     authors: "<b>Benjamin Hoffman</b>, Jin Cheng, Chenhao Li, Stelian Coros"
     # venue: "Arxiv'25: arXiv preprint. 2025."
     venue: "Under Review"
-    paper_pdf: "/assets/publications/2025_cn_causal_effects/paper.pdf"
+    paper_pdf: "/assets/publications/2025_learning_more_with_less/paper.pdf"
     selected: y
