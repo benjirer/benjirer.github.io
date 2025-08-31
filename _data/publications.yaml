@@ -1,13 +1,13 @@
 papers:
   - title: "Into the Wild: Real-World Testing for ML-Based ABR"
     authors: "<b>Benjamin Hoffman</b>, Alexander Dietmüller, Ayush Mishra, Laurent Vanbever"
-    venue: "PACMI@ACM SOSP '25"
+    venue: "PACMI@SOSP 2025"
     paper_pdf: "/assets/publications/2025_into_the_wild/paper.pdf"
     selected: y
  
   - title: "Towards Network Model Generalization using <i>Strategic</i> Data Collection"
     authors: "<b>Benjamin Hoffman</b>, Alexander Dietmüller, Laurent Vanbever"
-    venue: "ACM SIGCOMM '25 (Poster)"
+    venue: "SIGCOMM 2025 (Poster)"
     paper_pdf: "/assets/publications/2025_network_model_generalization/paper.pdf"
     selected: y
 
