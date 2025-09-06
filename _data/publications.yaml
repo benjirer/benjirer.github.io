@@ -14,6 +14,6 @@ papers:
   - title: "Learning More With Less: Sample Efficient Model-Based RL for Loco-Manipulation"
     authors: "<b>Benjamin Hoffman</b>, Jin Cheng, Chenhao Li, Stelian Coros"
     # venue: "Arxiv'25: arXiv preprint. 2025."
-    venue: "Under Review"
+    venue: "CoRL 2025 (Workshop)"
     paper_pdf: "/assets/publications/2025_learning_more_with_less/paper.pdf"
     selected: y
