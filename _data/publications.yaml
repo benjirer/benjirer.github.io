@@ -9,6 +9,7 @@ papers:
     authors: "<b>Benjamin Hoffman</b>, Alexander Dietmüller, Laurent Vanbever"
     venue: "SIGCOMM 2025 (Poster)"
     paper_pdf: "/assets/publications/2025_network_model_generalization/paper.pdf"
+    poster: "/assets/publications/2025_network_model_generalization/poster.pdf"
     selected: y
 
   - title: "Learning More With Less: Sample Efficient Model-Based RL for Loco-Manipulation"
@@ -16,4 +17,5 @@ papers:
     # venue: "Arxiv'25: arXiv preprint. 2025."
     venue: "CoRL 2025 (Workshop)"
     paper_pdf: "/assets/publications/2025_learning_more_with_less/paper.pdf"
+    poster: "/assets/publications/2025_learning_more_with_less/poster.pdf"
     selected: y
