@@ -5,7 +5,7 @@ subtitle: "Into the Wild: Real-World Testing for ML-Based ABR"
 permalink: /projects/2025_into_the_wild.html
 ---
 
-<p style="text-align: left; margin-bottom: 30px;">
+<p>
 <b>Benjamin Hoffman</b>, Alexander Dietmüller, Ayush Mishra, Laurent Vanbever<br/>
 <i>Networked Systems Group at ETH Zürich</i><br/>
 <i>PACMI@SOSP, 2025</i>
