@@ -1,14 +1,14 @@
 ---
 layout: project
 title: ABR-Arena
-subtitle: Into the Wild – Real-World Testing for ML-Based ABR
+subtitle: "Into the Wild: Real-World Testing for ML-Based ABR"
 permalink: /projects/2025_into_the_wild.html
 ---
 
-<p style="text-align: center; margin-bottom: 30px;">
+<p style="text-align: left; margin-bottom: 30px;">
 <b>Benjamin Hoffman</b>, Alexander Dietmüller, Ayush Mishra, Laurent Vanbever<br/>
-<i>ETH Zürich</i><br/>
-PACMI@SOSP, 2025
+<i>Networked Systems Group at ETH Zürich</i><br/>
+<i>PACMI@SOSP, 2025</i>
 </p>
 
 **Abstract.** <br/>
@@ -37,11 +37,14 @@ Overall, our results highlight both the value and necessity of ABR-Arena: QoE pe
 **Availability.** <br/>
 We will open-source ABR-Arena to facilitate the development of new ML-based ABR algorithms and to enable meaningful improvements to existing algorithms. We are currently cleaning up all of our code and documenting every step to make it as easy to replicate and build as possible.
 
-**Citation.** <br/>
-<pre><code>@inproceedings{hoffman2025into,
+**Citation.**
+{% raw %}
+```
+@inproceedings{hoffman2025into,
   title={Into the Wild: Real-World Testing for ML-Based ABR},
   author={Hoffman, Benjamin and Dietm{"u}ller, Alexander and Mishra, Ayush and Vanbever, Laurent},
   booktitle={PACMI '25: Proceedings of the 4th Workshop on Practical Adoption Challenges of ML for Systems},
   year={2025}
 }
-</code></pre>
+```
+{% endraw %}
