@@ -11,6 +11,8 @@ permalink: /projects/2025_into_the_wild.html
 <i>PACMI@SOSP, 2025</i>
 </p>
 
+**[Paper]({{ "/assets/publications/2025_into_the_wild/paper.pdf" | prepend: site.baseurl }})** | **[Code](https://github.com/nsg-ethz/ABR-Arena/)**
+
 **Abstract.** <br/>
 Machine learning (ML)-based Adaptive Bitrate (ABR) algorithms often struggle to bridge the gap between simulation and reality. Their strong performance in synthetic environments frequently fails to generalize to real-world conditions. Researchers have therefore begun testing these algorithms over the Internet to incorporate real-world feedback into their design. In this paper, we show that since network conditions vary significantly across the globe, testing in individual real-world environments can suffer from the same generalization issues as lab-based testing. Existing testing platforms face (and might even be oblivious to) this limitation because they cover a small geographical region and rely on a narrow set of users affected by survivorship bias. As a result, their insights on an algorithm's performance generalize poorly to other deployments across the Internet, hindering the widespread adoption of ML-based ABR methods in practice. 
 <br/>
