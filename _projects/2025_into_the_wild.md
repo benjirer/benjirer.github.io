@@ -49,7 +49,7 @@ We will open-source ABR-Arena to facilitate the development of new ML-based ABR 
 ```
 @inproceedings{hoffman2025into,
   title={Into the Wild: Real-World Testing for ML-Based ABR},
-  author={Hoffman, Benjamin and Dietm{"u}ller, Alexander and Mishra, Ayush and Vanbever, Laurent},
+  author={Hoffman, Benjamin and Dietmüller, Alexander and Mishra, Ayush and Vanbever, Laurent},
   booktitle={PACMI '25: Proceedings of the 4th Workshop on Practical Adoption Challenges of ML for Systems},
   year={2025}
 }
