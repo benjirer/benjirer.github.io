@@ -21,3 +21,9 @@ papers:
     paper_pdf: "/assets/publications/2025_network_model_generalization/paper.pdf"
     poster: "/assets/publications/2025_network_model_generalization/poster.pdf"
     selected: y
+
+  - title: "State Estimation for Legged Robots"
+    authors: "<b>Benjamin Hoffman</b>"
+    venue: "ETH Research Collection 2021 (Bachelor Thesis)"
+    paper_pdf: "/assets/publications/2021_state_estimation/paper.pdf"
+    selected: n
