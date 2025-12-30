@@ -1,24 +1,23 @@
 papers:
   - title: "Into the Wild: Real-World Testing for ML-Based ABR"
     authors: "<b>Benjamin Hoffman</b>, Alexander Dietmüller, Ayush Mishra, Laurent Vanbever"
-    venue: "PACMI@SOSP 2025"
+    venue: "ACM PACMI 2025"
     paper_pdf: "/assets/publications/2025_into_the_wild/paper.pdf"
     slides: "/assets/publications/2025_into_the_wild/slides.pdf"
     code: "https://github.com/nsg-ethz/ABR-Arena/"
     project: "/projects/2025_into_the_wild.html"
     selected: y
  
-  - title: "Towards Network Model Generalization using <i>Strategic</i> Data Collection"
-    authors: "<b>Benjamin Hoffman</b>, Alexander Dietmüller, Laurent Vanbever"
-    venue: "SIGCOMM 2025 (Poster)"
-    paper_pdf: "/assets/publications/2025_network_model_generalization/paper.pdf"
-    poster: "/assets/publications/2025_network_model_generalization/poster.pdf"
-    selected: y
-
   - title: "Learning More With Less: Sample Efficient Model-Based RL for Loco-Manipulation"
     authors: "<b>Benjamin Hoffman</b>, Jin Cheng, Chenhao Li, Stelian Coros"
-    # venue: "Arxiv'25: arXiv preprint. 2025."
     venue: "CoRL 2025 (Workshop)"
     paper_pdf: "/assets/publications/2025_learning_more_with_less/paper.pdf"
     poster: "/assets/publications/2025_learning_more_with_less/poster.pdf"
+    selected: y
+
+  - title: "Towards Network Model Generalization using <i>Strategic</i> Data Collection"
+    authors: "<b>Benjamin Hoffman</b>, Alexander Dietmüller, Laurent Vanbever"
+    venue: "ACM SIGCOMM 2025 (Poster)"
+    paper_pdf: "/assets/publications/2025_network_model_generalization/paper.pdf"
+    poster: "/assets/publications/2025_network_model_generalization/poster.pdf"
     selected: y
