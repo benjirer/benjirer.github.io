@@ -15,6 +15,21 @@ title: Home
   </p>
 </div>
 
+<!-- ========== NEWS ========== -->
+<div class="docs-section" id="news">
+  <h5>News</h5>
+  <table class="news-table">
+    <tbody>
+      {% for item in site.data.news.news %}
+      <tr>
+        <td class="news-date">{{ item.date }}</td>
+        <td class="news-content">{{ item.content }}</td>
+      </tr>
+      {% endfor %}
+    </tbody>
+  </table>
+</div>
+
 <!-- ========== PUBLICATIONS ========== -->
 <div class="docs-section" id="research">
   <h4>Research</h4>
@@ -208,7 +223,7 @@ title: Home
     <div class="paper">
       <p class="title"><b>{{ project.title }}</b></p>
       <p>{{ project.name }}</p>
-      <p><i>{{ project.type }} · {{ project.semester }}</i></p>
+      <p><i>{{ project.type }} – {{ project.semester }}</i></p>
     </div>
     {% endfor %}
   </div>

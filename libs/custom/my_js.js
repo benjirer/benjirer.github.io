@@ -93,7 +93,6 @@ $(document).ready(function() {
 
 });
 
-// Copy BibTeX to clipboard
 function copyBibtex(button) {
   var textarea = button.nextElementSibling;
   var bibtex = textarea.value;
