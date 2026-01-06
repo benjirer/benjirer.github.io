@@ -63,6 +63,10 @@ title: Home
               <a class="button" href="{{ paper.project | prepend: site.baseurl }}" target="_blank">Website</a>
             {% endif %}
 
+            {% if paper.bibtex %}
+              <button class="button bibtex-btn" onclick="copyBibtex(this)" data-bibtex="{{ paper.bibtex | escape }}">BibTeX</button>
+            {% endif %}
+
           </div>
         </div>
       {% endfor %}
@@ -102,6 +106,10 @@ title: Home
 
             {% if paper.project %}
               <a class="button" href="{{ paper.project | prepend: site.baseurl }}" target="_blank">Website</a>
+            {% endif %}
+
+            {% if paper.bibtex %}
+              <button class="button bibtex-btn" onclick="copyBibtex(this)" data-bibtex="{{ paper.bibtex | escape }}">BibTeX</button>
             {% endif %}
 
           </div>
@@ -193,9 +201,14 @@ title: Home
     <p>
     I have had the pleasure to supervise and collaborate with students at ETH Zurich for thesis and semester projects. Should you be interested in working with me, don't hesitate to reach out! You can also check out my currently available theses <a href="https://nsg.ee.ethz.ch/people/benjamin-hoffman/#:~:text=SIGCOMM%20'25%20(Poster)-,Available%20Theses,-CCA%2DArena:%20Real" target="_blank">here</a>. Some past projects include:
     </p>
-    <ul style="list-style-type:none;">
-      <li><b>Fine-tuning LLMs for Network Data Understanding</b>, co-supervised MSc Thesis. Rufat Asadli.</li>
-    </ul>
+    
+    {% for project in site.data.students.projects %}
+    <div class="student-project">
+      <p class="student-name"><b>{{ project.name }}</b></p>
+      <p class="student-title">{{ project.title }}</p>
+      <p class="student-meta">{{ project.type }} · {{ project.semester }}</p>
+    </div>
+    {% endfor %}
   </div>
 
 

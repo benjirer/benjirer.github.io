@@ -7,6 +7,23 @@ papers:
     code: "https://github.com/nsg-ethz/ABR-Arena/"
     project: "/projects/2025_into_the_wild.html"
     selected: y
+    bibtex: |
+      @inproceedings{hoffman2025into,
+        author = {Hoffman, Benjamin and Dietm\"{u}ller, Alexander and Mishra, Ayush and Vanbever, Laurent},
+        title = {Into the Wild: Real-World Testing for ML-Based ABR},
+        year = {2025},
+        isbn = {9798400722059},
+        publisher = {Association for Computing Machinery},
+        address = {New York, NY, USA},
+        url = {https://doi.org/10.1145/3766882.3767186},
+        doi = {10.1145/3766882.3767186},
+        booktitle = {Proceedings of the 4th Workshop on Practical Adoption Challenges of ML for Systems},
+        pages = {105–109},
+        numpages = {5},
+        keywords = {Adaptive Bitrate Streaming, Machine Learning},
+        location = {Seoul, Republic of Korea},
+        series = {PACMI '25}
+      }
  
   - title: "Learning More With Less: Sample Efficient Model-Based RL for Loco-Manipulation"
     authors: "<b>Benjamin Hoffman</b>, Jin Cheng, Chenhao Li, Stelian Coros"
@@ -14,6 +31,13 @@ papers:
     paper_pdf: "/assets/publications/2025_learning_more_with_less/paper.pdf"
     poster: "/assets/publications/2025_learning_more_with_less/poster.pdf"
     selected: y
+    bibtex: |
+      @inproceedings{hoffman2025learning,
+        title={Learning More With Less: Sample Efficient Model-Based RL for Loco-Manipulation},
+        author={Hoffman, Benjamin and Cheng, Jin and Li, Chenhao and Coros, Stelian},
+        booktitle={CoRL Workshop on Resource-Rational Robot Learning},
+        year={2025}
+      }
 
   - title: "Towards Network Model Generalization using <i>Strategic</i> Data Collection"
     authors: "<b>Benjamin Hoffman</b>, Alexander Dietmüller, Laurent Vanbever"
@@ -21,9 +45,35 @@ papers:
     paper_pdf: "/assets/publications/2025_network_model_generalization/paper.pdf"
     poster: "/assets/publications/2025_network_model_generalization/poster.pdf"
     selected: y
+    bibtex: |
+      @inproceedings{hoffman2025towards,
+        author = {Hoffman, Benjamin and Dietm\"{u}ller, Alexander and Vanbever, Laurent},
+        title = {Towards Network Model Generalization using Strategic Data Collection},
+        year = {2025},
+        isbn = {9798400720260},
+        publisher = {Association for Computing Machinery},
+        address = {New York, NY, USA},
+        url = {https://doi.org/10.1145/3744969.3748407},
+        doi = {10.1145/3744969.3748407},
+        booktitle = {Proceedings of the ACM SIGCOMM 2025 Posters and Demos},
+        pages = {31–33},
+        numpages = {3},
+        keywords = {Machine Learning, Model Generalization, Network Modeling},
+        location = {Coimbra, Portugal},
+        series = {ACM SIGCOMM Posters and Demos '25}
+      }
 
   - title: "State Estimation for Legged Robots"
     authors: "<b>Benjamin Hoffman</b>"
     venue: "ETH Research Collection 2021 (Bachelor Thesis)"
     paper_pdf: "/assets/publications/2021_state_estimation/paper.pdf"
     selected: n
+    bibtex: |
+      @techreport{hoffman2021state,
+        title={State Estimation for Legged Robots},
+        author={Hoffman, Benjamin},
+        year={2021},
+        institution={ETH Zurich},
+        type={Bachelor Thesis},
+        doi={https://doi.org/10.3929/ethz-b-000713411}
+      }

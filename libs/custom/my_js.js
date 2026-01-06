@@ -92,3 +92,24 @@ $(document).ready(function() {
   init();
 
 });
+
+// Copy BibTeX to clipboard
+function copyBibtex(button) {
+  var bibtex = button.getAttribute('data-bibtex');
+  // Decode HTML entities
+  var textarea = document.createElement('textarea');
+  textarea.innerHTML = bibtex;
+  bibtex = textarea.value;
+  
+  navigator.clipboard.writeText(bibtex).then(function() {
+    var originalText = button.textContent;
+    button.textContent = 'Copied!';
+    button.classList.add('copied');
+    setTimeout(function() {
+      button.textContent = originalText;
+      button.classList.remove('copied');
+    }, 2000);
+  }).catch(function(err) {
+    console.error('Failed to copy: ', err);
+  });
+}

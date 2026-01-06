@@ -2,6 +2,8 @@ h4 {
   letter-spacing: .1rem; }
 .container {
   max-width: 800px; }
+#bio p {
+  text-align: justify; }
 .header {
   margin-top: 60px;
   margin-bottom: 60px; 
@@ -26,6 +28,19 @@ h4 {
   font-weight: 100;
   line-height: 25px;
   text-transform: none; }
+.bibtex-btn {
+  cursor: pointer;
+  border: 1px solid #bbb;
+  background: #fff;
+  transition: all 0.2s ease; }
+.bibtex-btn:hover {
+  background: #33C3F0;
+  color: #fff;
+  border-color: #33C3F0; }
+.bibtex-btn.copied {
+  background: #4CAF50;
+  color: #fff;
+  border-color: #4CAF50; }
 .section-header {
   text-transform: uppercase;
   font-size: 1.5rem;
@@ -67,6 +82,24 @@ h4 {
 }
 .project-caption {
   padding: 3px;
+}
+
+/*  ================ Student Projects styling  ================ */
+.student-project {
+  margin-bottom: 20px;
+}
+.student-project p {
+  margin-bottom: 2px;
+}
+.student-name {
+  font-size: 1.1em;
+}
+.student-title {
+  color: rgba(0, 0, 0, 0.8);
+}
+.student-meta {
+  color: rgba(0, 0, 0, 0.5);
+  font-size: 0.95em;
 }
 
 /* Larger than phone */
