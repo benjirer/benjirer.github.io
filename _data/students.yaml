@@ -2,7 +2,7 @@ projects:
   - name: "Rufat Asadli"
     title: "Fine-Tuning LLMs for Network Data Understanding"
     type: "Co-supervised MSc Thesis"
-    semester: "Spring 2025"
+    semester: "Fall 2025"
 
   - name: "Maxime Hilbig"
     title: "Introducing Tariffs on Internet Traffic"
