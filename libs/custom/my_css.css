@@ -4,6 +4,12 @@ h4 {
   max-width: 800px; }
 #bio p {
   text-align: justify; }
+#bio {
+  padding-bottom: 1rem;
+}
+#students > p {
+  text-align: justify;
+}
 
 /*  ================ News styling  ================ */
 .news-table {
@@ -31,7 +37,6 @@ h4 {
 #news {
   border-top: none;
   padding-top: 0;
-  margin-top: -2rem;
 }
 
 .header {
