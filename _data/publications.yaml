@@ -30,6 +30,7 @@ papers:
     venue: "CoRL 2025 (Workshop)"
     paper_pdf: "/assets/publications/2025_learning_more_with_less/paper.pdf"
     poster: "/assets/publications/2025_learning_more_with_less/poster.pdf"
+    project: "https://sites.google.com/view/learning-more-with-less/"
     selected: y
     bibtex: |
       @inproceedings{hoffman2025learning,

@@ -64,7 +64,8 @@ title: Home
             {% endif %}
 
             {% if paper.bibtex %}
-              <button class="button bibtex-btn" onclick="copyBibtex(this)" data-bibtex="{{ paper.bibtex | escape }}">BibTeX</button>
+              <button class="button bibtex-btn" onclick="copyBibtex(this)">BibTeX</button>
+              <textarea class="bibtex-content" style="display:none;">{{ paper.bibtex }}</textarea>
             {% endif %}
 
           </div>
@@ -109,7 +110,8 @@ title: Home
             {% endif %}
 
             {% if paper.bibtex %}
-              <button class="button bibtex-btn" onclick="copyBibtex(this)" data-bibtex="{{ paper.bibtex | escape }}">BibTeX</button>
+              <button class="button bibtex-btn" onclick="copyBibtex(this)">BibTeX</button>
+              <textarea class="bibtex-content" style="display:none;">{{ paper.bibtex }}</textarea>
             {% endif %}
 
           </div>
@@ -203,10 +205,10 @@ title: Home
     </p>
     
     {% for project in site.data.students.projects %}
-    <div class="student-project">
-      <p class="student-name"><b>{{ project.name }}</b></p>
-      <p class="student-title">{{ project.title }}</p>
-      <p class="student-meta">{{ project.type }} · {{ project.semester }}</p>
+    <div class="paper">
+      <p class="title"><b>{{ project.title }}</b></p>
+      <p>{{ project.name }}</p>
+      <p><i>{{ project.type }} · {{ project.semester }}</i></p>
     </div>
     {% endfor %}
   </div>

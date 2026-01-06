@@ -95,11 +95,8 @@ $(document).ready(function() {
 
 // Copy BibTeX to clipboard
 function copyBibtex(button) {
-  var bibtex = button.getAttribute('data-bibtex');
-  // Decode HTML entities
-  var textarea = document.createElement('textarea');
-  textarea.innerHTML = bibtex;
-  bibtex = textarea.value;
+  var textarea = button.nextElementSibling;
+  var bibtex = textarea.value;
   
   navigator.clipboard.writeText(bibtex).then(function() {
     var originalText = button.textContent;

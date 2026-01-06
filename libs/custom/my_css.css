@@ -84,24 +84,6 @@ h4 {
   padding: 3px;
 }
 
-/*  ================ Student Projects styling  ================ */
-.student-project {
-  margin-bottom: 20px;
-}
-.student-project p {
-  margin-bottom: 2px;
-}
-.student-name {
-  font-size: 1.1em;
-}
-.student-title {
-  color: rgba(0, 0, 0, 0.8);
-}
-.student-meta {
-  color: rgba(0, 0, 0, 0.5);
-  font-size: 0.95em;
-}
-
 /* Larger than phone */
 @media (min-width: 550px) {
   .header {
