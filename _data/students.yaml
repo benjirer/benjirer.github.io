@@ -8,3 +8,8 @@ projects:
     title: "Introducing Tariffs on Internet Traffic"
     type: "Co-supervised Semester Thesis"
     semester: "Spring 2026"
+
+  - name: "Enzo Baraldi"
+    title: "CCA-Arena: Real-World Evaluation of Congestion Control Algorithms"
+    type: "Co-supervised Semester Thesis"
+    semester: "Spring 2026"
