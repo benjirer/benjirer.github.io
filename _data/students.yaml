@@ -11,5 +11,15 @@ projects:
 
   - name: "Enzo Baraldi"
     title: "CCA-Arena: Real-World Evaluation of Congestion Control Algorithms"
+    type: "Supervised Semester Thesis"
+    semester: "Spring 2026"
+  
+  - name: "Kah Leong Chan"
+    title: "Extending the Evaluation of an Internet Performance Transparency System"
     type: "Co-supervised Semester Thesis"
+    semester: "Spring 2026"
+
+  - name: "Yu Song"
+    title: "Optimization for Data Collection in ML-Driven Network Control"
+    type: "Supervised Semester Thesis"
     semester: "Spring 2026"
