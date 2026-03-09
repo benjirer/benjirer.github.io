@@ -20,6 +20,6 @@ projects:
     semester: "Spring 2026"
 
   - name: "Yu Song"
-    title: "Optimization for Data Collection in ML-Driven Network Control"
+    title: "Optimization for Data Collection in ML-Driven Adaptive Bitrate Control"
     type: "Supervised Semester Thesis"
     semester: "Spring 2026"
