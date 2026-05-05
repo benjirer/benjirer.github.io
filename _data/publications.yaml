@@ -1,4 +1,20 @@
 papers:
+  - title: "Benchmarking LLM-Driven Network Configuration Repair"
+    authors: "Ioannis Protogeros, Rufat Asadli, <b>Benjamin Hoffman</b>, Laurent Vanbever"
+    venue: "Preprint"
+    paper_pdf: "/assets/publications/2026_cornetto/paper.pdf"
+    selected: y
+    bibtex: |
+      @misc{protogeros2026benchmarkingllmdrivennetworkconfiguration,
+            title={Benchmarking LLM-Driven Network Configuration Repair}, 
+            author={Ioannis Protogeros and Rufat Asadli and Benjamin Hoffman and Laurent Vanbever},
+            year={2026},
+            eprint={2604.22513},
+            archivePrefix={arXiv},
+            primaryClass={cs.NI},
+            url={https://arxiv.org/abs/2604.22513}, 
+      }
+  
   - title: "Into the Wild: Real-World Testing for ML-Based ABR"
     authors: "<b>Benjamin Hoffman</b>, Alexander Dietmüller, Ayush Mishra, Laurent Vanbever"
     venue: "ACM PACMI 2025"
