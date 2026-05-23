@@ -1,4 +1,9 @@
 papers:
+  - title: "Evaluating Agentic Configuration Repair for Computer Networks"
+    authors: "Rufat Asadli, <b>Benjamin Hoffman</b>, Ioannis Protogeros, Laurent Vanbever"
+    venue: "ICML 2026 (Workshop)"
+    selected: y
+
   - title: "Benchmarking LLM-Driven Network Configuration Repair"
     authors: "Ioannis Protogeros, Rufat Asadli, <b>Benjamin Hoffman</b>, Laurent Vanbever"
     venue: "Preprint"
