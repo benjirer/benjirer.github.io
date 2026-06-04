@@ -1,8 +1,16 @@
 papers:
   - title: "Evaluating Agentic Configuration Repair for Computer Networks"
-    authors: "Rufat Asadli, <b>Benjamin Hoffman</b>, Ioannis Protogeros, Laurent Vanbever"
+    authors: "Rufat Asadli, <b>Benjamin Hoffman*</b>, Ioannis Protogeros*, Laurent Vanbever"
     venue: "ICML 2026 (Workshop)"
+    paper_pdf: "/assets/publications/2026_agentic_configuration_repair/paper.pdf"
     selected: y
+    bibtex: |
+      @inproceedings{asadli2025evaluating,
+        title={Evaluating Agentic Configuration Repair for Computer Networks},
+        author={Asadli, Rufat and Hoffman, Benjamin and Protogeros, Ioannis and Vanbever, Laurent},
+        booktitle={ICML Workshop on Agents in the Wild},
+        year={2026}
+      }
 
   - title: "Benchmarking LLM-Driven Network Configuration Repair"
     authors: "Ioannis Protogeros, Rufat Asadli, <b>Benjamin Hoffman</b>, Laurent Vanbever"
