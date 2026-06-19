@@ -1,4 +1,7 @@
 news:
+  - date: "June 2026"
+    content: "I will be spending the summer as a Research Intern at Netflix in Los Gatos, CA. There, I will be working in the streaming algorithms team with a specific focus on improving Netlfix's Low-Latency Live Streaming approach."
+
   - date: "May 2026"
     content: "Our submission 'Evaluating Agentic Configuration Repair for Computer Networks' has been accepted to the ICML 2026 Workshop on Agents in the Wild taking place in Seoul, Republic of Korea!"
   
