@@ -1,4 +1,9 @@
 papers:
+  - title: "Slow-And-Wide Transceivers Shouldn't Be Color Blind"
+    authors: "Lukas Röllin, Sushovan Das, <b>Benjamin Hoffman</b>, and Laurent Vanbever"
+    venue: "ACM HotOptics 2026"
+    selected: y
+
   - title: "Evaluating Agentic Configuration Repair for Computer Networks"
     authors: "Rufat Asadli, <b>Benjamin Hoffman*</b>, Ioannis Protogeros*, Laurent Vanbever"
     venue: "ICML 2026 (Workshop)"
