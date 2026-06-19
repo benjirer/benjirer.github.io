@@ -1,6 +1,9 @@
 news:
   - date: "June 2026"
     content: "I am spending the summer as a Research Intern at Netflix in Los Gatos, CA! Here, I will be working in the streaming algorithms team and focus on improving Netlfix's Low-Latency Live Streaming approach."
+    
+  - date: "June 2026"
+    content: "Our submission 'Slow-And-Wide Transceivers Shouldn't Be Color Blind' has been accepted to HotOptics at ACM SIGCOMM 2026 taking place in Denver, Colorado! Be sure to catch Lukas's presentation if your heading there this year."
 
   - date: "May 2026"
     content: "Our submission 'Evaluating Agentic Configuration Repair for Computer Networks' has been accepted to the ICML 2026 Workshop on Agents in the Wild taking place in Seoul, Republic of Korea!"
