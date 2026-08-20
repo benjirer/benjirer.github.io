@@ -1,24 +1,36 @@
 news:
   - date: "June 2026"
-    content: "I am spending the summer as a Research Intern at Netflix in Los Gatos, CA! Here, I will be working in the streaming algorithms team and focus on improving Netflix's Low-Latency Live Streaming approach."
+    content: "Joined Netflix in Los Gatos, CA as a summer research intern in the streaming algorithms team working on learning-based estimation and control for video streaming."
     
   - date: "June 2026"
-    content: "Our submission 'Slow-And-Wide Transceivers Shouldn't Be Color Blind' has been accepted to HotOptics at ACM SIGCOMM 2026 taking place in Denver, Colorado! Be sure to catch Lukas's presentation if your heading there this year."
+    content: "Our paper 'Slow-And-Wide Transceivers Shouldn't Be Color Blind' has been accepted to HotOptics at ACM SIGCOMM 2026 taking place in Denver, Colorado!"
 
   - date: "May 2026"
-    content: "Our submission 'Evaluating Agentic Configuration Repair for Computer Networks' has been accepted to the ICML 2026 Workshop on Agents in the Wild taking place in Seoul, Republic of Korea!"
+    content: "Our paper 'Evaluating Agentic Configuration Repair for Computer Networks' has been accepted to the ICML 2026 Workshop on Agents in the Wild taking place in Seoul, Republic of Korea!"
   
+  - date: "Apr 2026"
+    content: "Our paper 'Benchmarking LLM-Driven Network Configuration Repair' is available on arXiv!"
+
   - date: "Mar 2026"
     content: "Presented my doctoral plan on 'Controlling Complex Networked Systems' with which I have now successfully passed my Aptitude Colloquium! This confirms my official status as a PhD student at ETH Zurich and allows me to take the next steps in my research journey."
 
-  - date: "Nov 2025"
+  - date: "Oct 2025"
     content: "Presented our paper 'Into the Wild: Real-World Testing for ML-Based ABR' at ACM PACMI 2025 in Seoul, Republic of Korea!"
   
-  - date: "Nov 2025"
-    content: "Our paper 'Learning More With Less: Sample Efficient Model-Based RL for Loco-Manipulation' was accepted to the workshop on Resource-Rational Robot Learning at CoRL 2025 in Seoul, Republic of Korea!"
+  - date: "Sep 2025"
+    content: "Our paper 'Learning More With Less: Sample Efficient Model-Based RL for Loco-Manipulation' was accepted to the CoRL 2025 Workshops on Resource-Rational Robot Learning and on Robotics World Modeling taking place in Seoul, Republic of Korea!"
 
   - date: "Sep 2025"
     content: "Presented our poster 'Towards Network Model Generalization using Strategic Data Collection' at ACM SIGCOMM 2025 in Coimbra, Portugal!"
 
+  - date: "Aug 2025"
+    content: "Our paper 'Into the Wild: Real-World Testing for ML-Based ABR' was accepted at ACM PACMI 2025 taking place in Seoul, Republic of Korea!"
+
+  - date: "Jun 2025"
+    content: "Our poster 'Towards Network Model Generalization using Strategic Data Collection' was accepted at ACM SIGCOMM 2025 taking place in Coimbra, Portugal!"
+
+  - date: "Apr 2025"
+    content: "Started my PhD in the Networked Systems Group at ETH Zurich working on learning-based control in networking under the supervision of Prof. Laurent Vanbever."
+
   - date: "Feb 2025"
-    content: "Started my PhD at ETH Zurich in the Networked Systems Group under the supervision of Prof. Laurent Vanbever."
+    content: "Joined the Networked Systems Group at ETH Zurich as a Research Intern working on learning-based control in networking under the supervision of Prof. Laurent Vanbever."

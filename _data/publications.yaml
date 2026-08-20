@@ -1,8 +1,26 @@
 papers:
   - title: "Slow-And-Wide Transceivers Shouldn't Be Color Blind"
-    authors: "Lukas Röllin, Sushovan Das, <b>Benjamin Hoffman</b>, and Laurent Vanbever"
+    authors: "Lukas Röllin, Sushovan Das, <b>Benjamin Hoffman</b>, Laurent Vanbever"
     venue: "ACM HotOptics 2026"
+    paper_pdf: "/assets/publications/2026_chromatile/paper.pdf"
     selected: y
+    bibtex: |
+      @inproceedings{10.1145/3789240.3822612,
+        author={R{\"o}llin, Lukas and Das, Sushovan and Hoffman, Benjamin and Vanbever, Laurent},
+        title={Slow-And-Wide Transceivers Shouldn’t Be Color Blind},
+        year={2026},
+        isbn={9798400724671},
+        publisher={Association for Computing Machinery},
+        address={New York, NY, USA},
+        url={https://doi.org/10.1145/3789240.3822612},
+        doi={10.1145/3789240.3822612},
+        booktitle={Proceedings of the ACM SIGCOMM 2026 Conference},
+        pages={2150–2158},
+        numpages={9},
+        keywords={optical switching, AI infrastructure, slow-and-wide transceiver},
+        location={Colorado Convention Center, Denver, CO, USA},
+        series={SIGCOMM '26}
+      }
 
   - title: "Evaluating Agentic Configuration Repair for Computer Networks"
     authors: "Rufat Asadli, <b>Benjamin Hoffman*</b>, Ioannis Protogeros*, Laurent Vanbever"
@@ -10,11 +28,13 @@ papers:
     paper_pdf: "/assets/publications/2026_agentic_configuration_repair/paper.pdf"
     selected: y
     bibtex: |
-      @inproceedings{asadli2025evaluating,
+      @inproceedings{asadli2026evaluating,
         title={Evaluating Agentic Configuration Repair for Computer Networks},
-        author={Asadli, Rufat and Hoffman, Benjamin and Protogeros, Ioannis and Vanbever, Laurent},
-        booktitle={ICML Workshop on Agents in the Wild},
-        year={2026}
+        author={Asadli, Rufat and Protogeros, Ioannis and Hoffman, Benjamin and Vanbever, Laurent},
+        booktitle={ICML 2026 Workshop on Agents in the Wild: Safety, Security, and Beyond},
+        year={2026},
+        location={Seoul, South Korea},
+        url={https://icml.cc/virtual/2026/67960}
       }
 
   - title: "Benchmarking LLM-Driven Network Configuration Repair"
@@ -24,13 +44,13 @@ papers:
     selected: y
     bibtex: |
       @misc{protogeros2026benchmarkingllmdrivennetworkconfiguration,
-            title={Benchmarking LLM-Driven Network Configuration Repair}, 
-            author={Ioannis Protogeros and Rufat Asadli and Benjamin Hoffman and Laurent Vanbever},
-            year={2026},
-            eprint={2604.22513},
-            archivePrefix={arXiv},
-            primaryClass={cs.NI},
-            url={https://arxiv.org/abs/2604.22513}, 
+        title={Benchmarking LLM-Driven Network Configuration Repair}, 
+        author={Ioannis Protogeros and Rufat Asadli and Benjamin Hoffman and Laurent Vanbever},
+        year={2026},
+        eprint={2604.22513},
+        archivePrefix={arXiv},
+        primaryClass={cs.NI},
+        url={https://arxiv.org/abs/2604.22513}, 
       }
   
   - title: "Into the Wild: Real-World Testing for ML-Based ABR"
@@ -43,20 +63,20 @@ papers:
     selected: y
     bibtex: |
       @inproceedings{hoffman2025into,
-        author = {Hoffman, Benjamin and Dietm\"{u}ller, Alexander and Mishra, Ayush and Vanbever, Laurent},
-        title = {Into the Wild: Real-World Testing for ML-Based ABR},
-        year = {2025},
-        isbn = {9798400722059},
-        publisher = {Association for Computing Machinery},
-        address = {New York, NY, USA},
-        url = {https://doi.org/10.1145/3766882.3767186},
-        doi = {10.1145/3766882.3767186},
-        booktitle = {Proceedings of the 4th Workshop on Practical Adoption Challenges of ML for Systems},
-        pages = {105–109},
-        numpages = {5},
-        keywords = {Adaptive Bitrate Streaming, Machine Learning},
-        location = {Seoul, Republic of Korea},
-        series = {PACMI '25}
+        author={Hoffman, Benjamin and Dietm\"{u}ller, Alexander and Mishra, Ayush and Vanbever, Laurent},
+        title={Into the Wild: Real-World Testing for ML-Based ABR},
+        year={2025},
+        isbn={9798400722059},
+        publisher={Association for Computing Machinery},
+        address={New York, NY, USA},
+        url={https://doi.org/10.1145/3766882.3767186},
+        doi={10.1145/3766882.3767186},
+        booktitle={Proceedings of the 4th Workshop on Practical Adoption Challenges of ML for Systems},
+        pages={105–109},
+        numpages={5},
+        keywords={Adaptive Bitrate Streaming, Machine Learning},
+        location={Seoul, Republic of Korea},
+        series={PACMI '25}
       }
  
   - title: "Learning More With Less: Sample Efficient Model-Based RL for Loco-Manipulation"
@@ -70,8 +90,10 @@ papers:
       @inproceedings{hoffman2025learning,
         title={Learning More With Less: Sample Efficient Model-Based RL for Loco-Manipulation},
         author={Hoffman, Benjamin and Cheng, Jin and Li, Chenhao and Coros, Stelian},
-        booktitle={CoRL Workshop on Resource-Rational Robot Learning},
+        booktitle={CoRL 2025 Workshop on Resource-Rational Robot Learning},
         year={2025}
+        location={Seoul, South Korea},
+        url={https://arxiv.org/abs/2501.10499}
       }
 
   - title: "Towards Network Model Generalization using <i>Strategic</i> Data Collection"
@@ -82,20 +104,20 @@ papers:
     selected: y
     bibtex: |
       @inproceedings{hoffman2025towards,
-        author = {Hoffman, Benjamin and Dietm\"{u}ller, Alexander and Vanbever, Laurent},
-        title = {Towards Network Model Generalization using Strategic Data Collection},
-        year = {2025},
-        isbn = {9798400720260},
-        publisher = {Association for Computing Machinery},
-        address = {New York, NY, USA},
-        url = {https://doi.org/10.1145/3744969.3748407},
-        doi = {10.1145/3744969.3748407},
-        booktitle = {Proceedings of the ACM SIGCOMM 2025 Posters and Demos},
-        pages = {31–33},
-        numpages = {3},
-        keywords = {Machine Learning, Model Generalization, Network Modeling},
-        location = {Coimbra, Portugal},
-        series = {ACM SIGCOMM Posters and Demos '25}
+        author={Hoffman, Benjamin and Dietm\"{u}ller, Alexander and Vanbever, Laurent},
+        title={Towards Network Model Generalization using Strategic Data Collection},
+        year={2025},
+        isbn={9798400720260},
+        publisher={Association for Computing Machinery},
+        address={New York, NY, USA},
+        url={https://doi.org/10.1145/3744969.3748407},
+        doi={10.1145/3744969.3748407},
+        booktitle={Proceedings of the ACM SIGCOMM 2025 Posters and Demos},
+        pages={31–33},
+        numpages={3},
+        keywords={Machine Learning, Model Generalization, Network Modeling},
+        location={Coimbra, Portugal},
+        series={ACM SIGCOMM Posters and Demos '25}
       }
 
   - title: "State Estimation for Legged Robots"
