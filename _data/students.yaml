@@ -23,3 +23,13 @@ projects:
     title: "Optimization for Data Collection in ML-Driven Adaptive Bitrate Control"
     type: "Supervised Semester Thesis"
     semester: "Spring 2026"
+
+  - name: "Szymon Nastaly"
+    title: "Network Debugging for the Average Joe"
+    type: "Co-supervised Semester Thesis"
+    semester: "Autumn 2026"
+
+  - name: "Yu Song"
+    title: "Learning-based Control for Video Streaming Algorithms"
+    type: "Supervised Master Thesis"
+    semester: "Autumn 2026"
