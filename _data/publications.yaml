@@ -30,12 +30,15 @@ papers:
     selected: y
     bibtex: |
       @inproceedings{asadli2026evaluating,
-        title={Evaluating Agentic Configuration Repair for Computer Networks},
-        author={Asadli, Rufat and Protogeros, Ioannis and Hoffman, Benjamin and Vanbever, Laurent},
-        booktitle={ICML 2026 Workshop on Agents in the Wild: Safety, Security, and Beyond},
-        year={2026},
-        location={Seoul, South Korea},
-        url={https://icml.cc/virtual/2026/67960}
+        author    = {Asadli, Rufat and Hoffman, Benjamin and Protogeros, Ioannis and Vanbever, Laurent},
+        title     = {{Evaluating Agentic Configuration Repair for Computer Networks}},
+        booktitle = {ICML 2026 Workshop on Agents in the Wild: Safety, Security, and Beyond},
+        address   = {Seoul, Republic of Korea},
+        year      = 2026,
+        month     = jul,
+        publisher = {The Second Workshop on Agents in the Wild: Safety, Security, and Beyond at ICML},
+        doi       = {10.48550/ARXIV.2606.06212},
+        url       = {https://doi.org/10.48550/arxiv.2606.06212}
       }
 
   - title: "Benchmarking LLM-Driven Network Configuration Repair"
