@@ -30,6 +30,6 @@ projects:
     semester: "Autumn 2026"
 
   - name: "Yu Song"
-    title: "Learning-based Control for Video Streaming Algorithms"
+    title: "Model-Based RL for Low-Latency Live Streaming"
     type: "Supervised Master Thesis"
     semester: "Autumn 2026"
