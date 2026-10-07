@@ -33,3 +33,8 @@ projects:
     title: "Model-Based RL for Low-Latency Live Streaming"
     type: "Supervised Master Thesis"
     semester: "Autumn 2026"
+
+  - name: "Enzo Baraldi"
+    title: "Evaluating Learning-Based Internet Congestion Control Algorithms in the Wild"
+    type: "Supervised Research Project"
+    semester: "Autumn 2026"
